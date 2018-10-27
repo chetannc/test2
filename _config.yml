@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Chetan Nagabandla"
-  avatar           : test.jpg"
+  avatar           : "/images/test.jpg"
   bio              : "My Portfolio"
   location         : "Cincinnati, OH"
   email            :
